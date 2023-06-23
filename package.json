@@ -1,0 +1,24 @@
+{
+  "name": "rmvc-server",
+  "version": "1.0.0",
+  "description": "Generates an express server application in the MVC architecture.\\",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shashankkafle/RMVC-Server.git"
+  },
+  "keywords": [
+    "MVC",
+    "RMVC",
+    "Express"
+  ],
+  "author": "Shashank Kafle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shashankkafle/RMVC-Server/issues"
+  },
+  "homepage": "https://github.com/Shashankkafle/RMVC-Server#readme"
+}
